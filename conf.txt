@@ -1,1 +1,2 @@
-hello
+
+This line should be conflicted.
